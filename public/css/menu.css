@@ -1,0 +1,25 @@
+	body{ background-color: #000; 
+      font-family: dotum, Yu Gothic Light, gulim, consolas, MS Sans Serif,cordia new, arial,dotum;
+         font-size: 36px;
+        }
+          #container <iframe width="560" height="315" src="https://www.youtube.com/embed/phYq5AYGOkY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>{color: #050301;
+           font-family: @SimSun-ExtB, @MS Mincho, BatangChe,FrankRuehl; 
+            font-size: 36PX;}
+            #title{width: 50px; margin: 4% 4% 4% 4%;}
+             #title1{background-color: #000;color: #ff0404; 
+                font-family:gulim, consolas, MS Sans Serif,cordia new, arial,dotum;
+                font-size: 72px;
+                text-align: center;
+                font-weight: bold;
+      }
+          #title2{background-color: #ff0404;color: 000;
+                font-family:gulim, consolas, MS Sans Serif,cordia new, arial,dotum;
+                font-size: 72px;
+                text-align: center;
+                }
+          #title3{background-color: #000;color:#fff;
+                font-family:gulim, consolas, MS Sans Serif,cordia new, arial,dotum;
+                font-size: 72px; font-style: ;
+                text-align: center;}
+#foot{width: 500; height: 300; background-color: #fff;}
+		.cajasfoot{display: inline-block; border: 1% solid #000; width: 200px; height: 200; }
